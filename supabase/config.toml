@@ -1,0 +1,13 @@
+project_id = "orkpmkfubavtzurjqgwx"
+
+[functions.ai-assistant]
+verify_jwt = false
+
+[functions.electives-advisor]
+verify_jwt = false
+
+[functions.generate-roadmap]
+verify_jwt = false
+
+[functions.chat-roadmap]
+verify_jwt = false
