@@ -1,6 +1,6 @@
-# Career Compass
+# SkillBridge
 
-Career Compass is a comprehensive career guidance platform designed to help students navigate their academic and professional journeys. Built with modern web technologies, it provides personalized career roadmaps, AI-powered advice, alumni networking, and progress tracking to empower users in making informed career decisions.
+SkillBridge is a comprehensive career guidance platform designed to help students navigate their academic and professional journeys. Built with modern web technologies, it provides personalized career roadmaps, AI-powered advice, alumni networking, and progress tracking to empower users in making informed career decisions.
 
 ## Features
 
